@@ -1,3 +1,13 @@
+:root 
+{
+  --bg-color: #121212;
+  --card-bg: #1e1e1e;
+  --text-color: #e0e0e0;
+  --accent-color: #4fc3f7; /* Light blue accent */
+  --header-bg: #181818;
+  --link-hover: #81d4fa;
+}
+
 body 
 {
   font-family: Arial, sans-serif;
